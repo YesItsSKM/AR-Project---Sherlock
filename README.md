@@ -1,6 +1,8 @@
 # AR-Project-Sherlock
 
-[Individual Report - Shubham Maurya - AR Group Project.pdf](https://github.com/YesItsSKM/AR-Project---Sherlock/files/8170424/Individual.Report.-.Shubham.Maurya.-.AR.Group.Project.pdf)
+This group project focuses on learning about surface tracking in Unity 3D to implement a crime solving game in AR.
+
+[Individual Contribution - Shubham Maurya - AR Group Project.pdf](https://github.com/YesItsSKM/AR-Project---Sherlock/files/8170424/Individual.Report.-.Shubham.Maurya.-.AR.Group.Project.pdf)
 
 Demo video:
 
